@@ -318,6 +318,10 @@ section h2 {
   color: #fff;
 }
 
+#search-results-heading {
+  font-size: 0.7em;
+}
+
 .pagination {
   margin-top: 20px;
 }
@@ -328,16 +332,15 @@ section h2 {
 
 /* Alert */
 .alert {
-  background: red;
   padding: 10px 20px;
   margin-bottom: 20px;
   border-radius: 5px;
 }
 
-.alert-success {
+.success {
   background: green;
 }
 
-.alert-error {
+.error {
   background: red;
 }
